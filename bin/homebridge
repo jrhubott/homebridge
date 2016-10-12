@@ -6,6 +6,8 @@
 
 'use strict';
 
+console.log(process.argv);
+
 process.title = 'homebridge';
 
 // Find the HomeBridge lib
